@@ -1,0 +1,7 @@
+{ 
+    "prefix" : "hx!",
+    "YOUTUBE_API_KEY" : "AIzaSyCR9p1D_bkghNCsYCMqicipUUvrTAHKYoQ",
+    "SOUNDCLOUD_CLIENT_ID": "koSuixzk25Cz0fDgsPfhkgeZcKBr7lpQ",
+    "MAX_PLAYLIST_SIZE": 10,
+    "PRUNING": false
+}
